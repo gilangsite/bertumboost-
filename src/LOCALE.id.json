@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "ai_consult": "Coba Konsultasi AI",
+    "about": "Tentang Kami",
+    "bootcamp": "Bootcamp",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "headline": "Kalau hari ini terasa berat, jangan dipaksakan.",
+    "subheadline": "Bertumboost bantu kamu pause, dengar apa yang kamu rasakan, dan bikin rencana kecil yang aman untuk masa depan.",
+    "cta_primary": "Coba Konsultasi AI — 3 menit",
+    "cta_secondary": "Join Mini-Workshop",
+    "trust_indicator": "Aman, privat, dan tanpa judgement."
+  },
+  "masalah": {
+    "headline": "Kamu nggak sendirian",
+    "subheadline": "Banyak Gen-Z tampak 'baik-baik saja' tapi merasa hancur di dalam. Ini cerita mereka yang mulai dari langkah kecil.",
+    "personas": [
+      {
+        "name": "Alya, 20",
+        "title": "The Overachiever",
+        "desc": "Lulus cum laude tapi setiap malam memikirkan masa depan dan takut salah pilih spesialisasi."
+      },
+      {
+        "name": "Nadia, 23",
+        "title": "The Drift",
+        "desc": "Kerja remote, sering merasa imposter. Tiap meeting terasa berat."
+      },
+      {
+        "name": "Raka, 19",
+        "title": "The Quiet One",
+        "desc": "Sering kena bullying di kampus dan takut cerita ke siapa-siapa."
+      }
+    ]
+  },
+  "cara_bantu": {
+    "headline": "Cara Bertumboost Membantu",
+    "subheadline": "Tiga pilar yang memandu setiap langkah kamu",
+    "promises": [
+      {
+        "title": "Triage & Empathy di Sentuhan Pertama",
+        "desc": "Konsultasi AI yang empatik dan non-klinis, memberi validasi dan micro-action."
+      },
+      {
+        "title": "Rangkaian Program yang Praktis",
+        "desc": "Dari konsultasi cepat, cohort online 8 minggu, sampai flagship retreat 3 hari."
+      },
+      {
+        "title": "Komunitas yang Aman",
+        "desc": "Peer support, buddy systems, dan opsi rujukan ke klinisi bila diperlukan."
+      }
+    ]
+  },
+  "social_proof": {
+    "headline": "Mereka Mulai dari Langkah Kecil",
+    "testimonials": [
+      {
+        "quote": "Dalam 30 hari, aku punya action plan yang jelas dan buddy check-in setiap minggu.",
+        "name": "Alya, 20",
+        "role": "Mahasiswa Kedokteran"
+      },
+      {
+        "quote": "Cohort 8 minggu jadi ruang praktek yang aman. Aku dapat mentor dan networking lokal.",
+        "name": "Nadia, 23",
+        "role": "Fresh Graduate, Remote Worker"
+      }
+    ],
+    "cta_headline": "Mulai dari satu kebiasaan kecil",
+    "cta_subheadline": "Bertumboost bukan janji shortcut — kita adalah tempat pertama yang aman untuk mulai. Ambil satu langkah kecil: coba konsultasi AI tiga menit kami.",
+    "cta_button": "Coba Konsultasi AI — 3 menit"
+  },
+  "footer": {
+    "brand_desc": "Tempat pertama yang aman untuk mulai. Konsultasi AI singkat & privat untuk bantu kamu mulai berubah dengan kebiasaan kecil yang konsisten.",
+    "program": "Program",
+    "contact": "Kontak",
+    "copyright": "© 2025 Bertumboost. Aman, privat, dan tanpa judgement."
+  },
+  "ai_consult": {
+    "title": "Bertumboost AI Consultant",
+    "consent_title": "Mulai Konsultasi AI",
+    "consent_desc": "Konsultasi ini bersifat anonim dan non-klinis. Kami akan memberikan validasi dan langkah kecil yang actionable.",
+    "consent_cta": "Mulai Konsultasi (Anonim)",
+    "consent_cta_named": "Mulai Konsultasi (Dengan Nama)",
+    "composer_placeholder": "Ketik pesan kamu di sini...",
+    "send": "Kirim",
+    "typing": "Sedang mengetik...",
+    "emergency_title": "Butuh Bantuan Segera?",
+    "emergency_desc": "Jika kamu dalam keadaan darurat atau memiliki pikiran untuk menyakiti diri, hubungi hotline berikut:",
+    "emergency_hotline": "Hotline: 119 (Indonesia)",
+    "emergency_cta": "Hubungi Hotline",
+    "escalation_title": "Kami Peduli dengan Kamu",
+    "escalation_desc": "Pesan kamu menunjukkan kamu mungkin butuh dukungan lebih lanjut. Kami bisa menghubungkan kamu dengan profesional kesehatan mental.",
+    "escalation_cta": "Ya, Hubungkan Saya"
+  },
+  "common": {
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan. Silakan coba lagi.",
+    "close": "Tutup",
+    "back": "Kembali"
+  }
+}
